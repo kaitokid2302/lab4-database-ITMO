@@ -1,0 +1,46 @@
+sushi
+rice
+eel
+salmon
+tuna
+pork
+chicken thigh
+chicken breast
+beef
+wine
+beer
+sake
+whiskey
+vodka
+rum
+fish sauce
+soy sauce
+salt
+pepper
+sugar
+flour
+butter
+coffe
+tea
+milk
+cream
+cheese
+yogurt
+egg
+boiled egg
+fried egg
+scrambled egg
+omelette
+bacon
+sausage
+ham
+hot dog
+hamburger
+sandwich
+pizza
+pasta
+noodle
+banh mi
+pho
+ramen
+tempura
